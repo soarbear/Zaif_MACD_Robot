@@ -3,7 +3,7 @@ ZaifのMACD値をみてビットコインの売買を行う自動取引ロボッ
 A trading robot which trades bitcoin by the MACD value of Zaif.
 
 # Requirements
-python3.6 or above, zaif-client, zaifdata
+python3.6 or above, zaifapi, zaifdata
 
 # Installation
 git clone https://github.com/soarbear/Zaif_MACD_Robot.git<br>
